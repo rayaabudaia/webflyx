@@ -1,2 +1,1 @@
-- spice
-- fear
+- Initial quote
